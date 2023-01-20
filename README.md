@@ -5,8 +5,9 @@ Python program that calculates the available seats and price of a prototype thea
 
 The Yorktown theatre has 300 hall seats and 100 mezzanine seats. A hall seat costs $10 for an adult and $7 for a child. A mezzanine seat costs $8 for an adult and $5 for a child. Write a program to REPEATEDLY prompt the user to enter the required seating (1 for hall, 2 for mezzanine), the number of adults and children in the party, and the print out a receipt and the number of remaining seats in Hall and Mezzanine. An order will be refused if there are not enough seats in the required area. The program loops until there are no more seats in either hall or mezzanine.  
 
-```
 Sample interaction:
+
+```
 Enter 1 for Hall and 2 for Mezzanine: 1
 Number of adults? 2
 Number of children? 3
