@@ -21,3 +21,11 @@ Number of children? 4
 Great, You got 1 adult tickets for $8 and 4 child tickets for $20 so your total is $28
 Remaining seats: Hall 295 Mezzanine 95
 ```
+
+## Development
+
+The code was developed using Python. 100% of the code written belongs to me. 
+
+## Testing 
+
+The test for this project is in `calculator.py`. The test will run automatically whenever you hit the "run the program".
