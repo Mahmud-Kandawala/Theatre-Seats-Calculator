@@ -25,7 +25,7 @@ Remaining seats: Hall 295 Mezzanine 95
 
 ## Development
 
-The code was developed using Python. 100% of the code written belongs to me. 
+The code was developed using Python.
 
 ## Testing 
 
